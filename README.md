@@ -1,13 +1,24 @@
-# PLATEAU SDK for Unity Samples
-このリポジトリでは、[PLATEAU SDK for Unity](https://github.com/Synesthesias/PLATEAU-SDK-for-Unity)を利用すると実際にどのようなアプリケーションが作れるかについて知るためのサンプルプロジェクトを公開しています。
+# 古いサンプルです
+- このサンプルは2023年のものであり、SDKの最新版とは合わない点があります。
+- 新しいサンプルをご利用ください:
+  - [2024年のGISサンプル](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Unity-GISSample)
 
-[PLATEAU SDK for Unreal](https://github.com/Synesthesias/PLATEAU-SDK-for-Unreal)向けサンプルプロジェクトは[こちら](https://github.com/Synesthesias/PLATEAU-SDK-for-Unreal-Samples)で公開しています。
+# PLATEAU SDK for Unity Samples
+このリポジトリでは、[PLATEAU SDK for Unity](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Unity)を利用すると実際にどのようなアプリケーションが作れるかについて知るためのサンプルプロジェクトを公開しています。
+
+[PLATEAU SDK for Unreal](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Unreal)向けサンプルプロジェクトは[こちら](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Unreal-Samples)です。
+
+## はじめに
+PLATEAU公式サイトで[PLATEAU SDK for Unityのチュートリアル](https://www.mlit.go.jp/plateau/learning/tpc17-1/)を公開しています。
+
+SDKの導入方法、機能の説明、サンプルプロジェクトの内容等について解説していますので、初めてSDKやサンプルプロジェクトを触る方はまずはこちらをご覧ください。
+
 
 ## 動作環境
 - Unity 2020.3~
 
 ## 導入
-- [Releaseページ](https://github.com/Synesthesias/PLATEAU-SDK-for-Unity-Samples/releases)から最新版を選択します。
+- [Releaseページ](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Unity-Samples/releases)から最新版を選択します。
 - 掲載されているサンプルプロジェクトをダウンロードします。
 - zipファイルを展開してUnityからプロジェクトとして開きます。
 
@@ -23,7 +34,7 @@ PLATEAU SDKでどのような属性情報にアクセスできるかについて
 git lfs の導入が必要であることに注意してください。
 ```
 git lfs install
-git clone https://github.com/Synesthesias/PLATEAU-SDK-for-Unity-Samples.git
+git clone https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Unity-Samples.git
 ```
 
 ## ライセンス
